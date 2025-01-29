@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hong.930@osu.edu
+- 📫 How to reach me hongchaeun638@gmail.com
 
 <!---
 Chaeun26/Chaeun26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
